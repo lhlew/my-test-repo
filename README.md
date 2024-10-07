@@ -1,5 +1,9 @@
-# my-test-repo
+# My Test Repo
 
-This is a little description of this repo.
-It is an example.
+## Introduction
+
+- This is a little description of this repo.
+- It is an example.
+
+## More info
 
